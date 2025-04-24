@@ -46,16 +46,16 @@ pip install -r requirements.txt
 -streamlit run app.py
 ````
 
-##Technologies Used
-###Python
--Streamlit - for frontend and interaction
--NumPy, SciPy - for signal processing
--Matplotlib - for plotting
--Soundfile/Scipy.io - for audio file handling
+## Technologies Used
+### Python
+- Streamlit - for frontend and interaction
+- NumPy, SciPy - for signal processing
+- Matplotlib - for plotting
+- Soundfile/Scipy.io - for audio file handling
 
-Author
+## Author
 Hitesh Kumar S
 B.E. ECE | Panimalar Engineering College
 
-##License 
+## License 
 This project is open-source and available under the MIT License.
