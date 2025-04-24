@@ -54,7 +54,7 @@ pip install -r requirements.txt
 - Soundfile/Scipy.io - for audio file handling
 
 ## Author
-Hitesh Kumar S
+Hitesh Kumar S |
 B.E. ECE | Panimalar Engineering College
 
 ## License 
