@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 ## Running the app
 ```bash
--streamlit run app.py
+streamlit run app.py
 ````
 
 ## Technologies Used
