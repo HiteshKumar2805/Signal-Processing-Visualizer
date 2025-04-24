@@ -37,14 +37,14 @@ Ensure you have the following installed:
 
 ### 📦 Installation
 
-```bash
 git clone https://github.com/yourusername/SignalScope.git
 cd SignalScope
 pip install -r requirements.txt
 
 ## Running the app
-
+```bash
 -streamlit run app.py
+````
 
 ##Technologies Used
 ###Python
