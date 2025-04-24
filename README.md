@@ -36,10 +36,11 @@ Ensure you have the following installed:
 - pip
 
 ### 📦 Installation
-
+```bash
 git clone https://github.com/yourusername/SignalScope.git
 cd SignalScope
 pip install -r requirements.txt
+```
 
 ## Running the app
 ```bash
